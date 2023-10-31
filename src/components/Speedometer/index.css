@@ -1,0 +1,36 @@
+.background {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.heading {
+  font-size: 25px;
+  font-weight: bold;
+}
+.image {
+  height: 30vh;
+  width: 70vw;
+}
+.head {
+  font-size: 18px;
+  font-weight: bold;
+}
+.para {
+  font-size: 16px;
+}
+.rowItems {
+  display: flex;
+  flex-direction: row;
+}
+.button1 {
+  background-color: blue;
+  border: 0px;
+}
+.button2 {
+  background-color: transparent;
+  border: 0px;
+}
